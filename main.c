@@ -1,10 +1,10 @@
 /**
  * Autor: Alejandro Garcia
  * Date : 27/03/2025
- * Description: Conversor for decimal to binary 
+ * Description: This program converts a decimal number to binary 
  */
 #include <stdio.h>
-#define binario 1000
+#define binario 1000 //max number of decimal
 int main() {
     int num;
     int i;
